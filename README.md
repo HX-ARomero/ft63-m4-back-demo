@@ -2,11 +2,11 @@
 
 ## Pad Colaborativo
 
-- [Link al Pad](https://pad.riseup.net/p/ft63-back)
-
 > Este "pad" es un documento colaborativo que puede ser editado por cualquier persona que tenga la URL. Si usas un nombre obvio para el pad, podría ser adivinado.
 
 ⚠️ ADVERTENCIA: Este pad será ELIMINADO si pasan 60 días sin que se realicen ediciones. NO HAY FORMA de recuperar el pad.
+
+- [Link al Pad](https://pad.riseup.net/p/ft63-back)
 
 ## TypeScript
 
