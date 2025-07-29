@@ -21,6 +21,12 @@
 
 - [Visual Studio Code - Atajos](./readmes/vsc-01.md)
 - [Métodos de Arrays](./readmes/arrays-metodos.md)
+- [Lenguaje Mark Down](./readmes/MarkDown.md)
+- [Semantic Version](./readmes/SemanticVersion.md)
+- Aprender a escribir en teclado con todos los dedos (Mecanografía)
+  - [El mundo de la Mecanografía](https://www.edclub.com/es/library/el-mundo-de-la-mecanograf%C3%ADa)
+  - [Aprende Mecanografía](https://www.mecanografia-online.com/)
+  - [Club de Mecanografía](https://www-typingclub-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 ## 01 - Backend Architecture
 
