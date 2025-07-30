@@ -28,6 +28,8 @@
   - [Aprende Mecanografía](https://www.mecanografia-online.com/)
   - [Club de Mecanografía](https://www-typingclub-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
-## 01 - Backend Architecture
+## Resumenes de Clases
 
-- [Link al resumen de la Clase](./readmes/NestJS-01.md)
+- [01- Backend Architecture](./readmes/NestJS-01.md)
+
+- [02- NestJS Fundamentals I](./readmes/NestJS-02.md)
