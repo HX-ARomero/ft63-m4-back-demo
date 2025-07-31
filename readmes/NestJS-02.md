@@ -15,9 +15,9 @@
 
 ```txt
   src/
-    |-- controllers
-    |-- modules
-    |-- services
+    |-- controllers/
+    |-- modules/
+    |-- services/
 ```
 
 ### Enfoque Funcional (el recomendado en Nest JS)
@@ -26,8 +26,9 @@
 
 ```txt
   src/
-    |-- todos
-    |-- users
+    |-- auth/
+    |-- products/
+    |-- users/
 ```
 
 ## Sobre LF y CRLF

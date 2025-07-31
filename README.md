@@ -33,3 +33,5 @@
 - [01- Backend Architecture](./readmes/NestJS-01.md)
 
 - [02- NestJS Fundamentals I](./readmes/NestJS-02.md)
+
+- [03- NestJS Fundamentals II](./readmes/NestJS-03.md)
