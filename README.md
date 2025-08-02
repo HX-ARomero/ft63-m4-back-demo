@@ -35,3 +35,6 @@
 - [02- NestJS Fundamentals I](./readmes/NestJS-02.md)
 
 - [03- NestJS Fundamentals II](./readmes/NestJS-03.md)
+
+- [04- NestJS Fundamentals II](./readmes/NestJS-04.md)
+  - [Decoradores](./readmes/Decoradores.md)
