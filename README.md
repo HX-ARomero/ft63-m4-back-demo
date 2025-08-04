@@ -38,3 +38,5 @@
 
 - [04- NestJS Fundamentals II](./readmes/NestJS-04.md)
   - [Decoradores](./readmes/Decoradores.md)
+
+- [05- NestJS & TypeORM](./readmes/NestJS-05.md)
