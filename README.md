@@ -31,12 +31,17 @@
 ## Resumenes de Clases
 
 - [01- Backend Architecture](./readmes/NestJS-01.md)
-
 - [02- NestJS Fundamentals I](./readmes/NestJS-02.md)
-
 - [03- NestJS Fundamentals II](./readmes/NestJS-03.md)
-
 - [04- NestJS Fundamentals II](./readmes/NestJS-04.md)
   - [Decoradores](./readmes/Decoradores.md)
-
 - [05- NestJS & TypeORM](./readmes/NestJS-05.md)
+- [06- NestJS File Upload](./readmes/NestJS-06.md)
+
+## Trivias
+
+- [Trivia #1](./readmes/trivia-01.md)
+- [Trivia #2](./readmes/trivia-02.md)
+- [Trivia #3](./readmes/trivia-03.md)
+- [Trivia #4](./readmes/trivia-04.md)
+- [Trivia #5](./readmes/trivia-05.md)
