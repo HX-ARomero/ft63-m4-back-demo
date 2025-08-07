@@ -33,10 +33,13 @@
 - [01- Backend Architecture](./readmes/NestJS-01.md)
 - [02- NestJS Fundamentals I](./readmes/NestJS-02.md)
 - [03- NestJS Fundamentals II](./readmes/NestJS-03.md)
-- [04- NestJS Fundamentals II](./readmes/NestJS-04.md)
+- [04- NestJS Routing](./readmes/NestJS-04.md)
   - [Decoradores](./readmes/Decoradores.md)
 - [05- NestJS & TypeORM](./readmes/NestJS-05.md)
-- [06- NestJS File Upload](./readmes/NestJS-06.md)
+- [06- NestJS Pipes](./readmes/NestJS-06.md)
+- [07- NestJS File Upload](./readmes/NestJS-07.md)
+- [08- Autenticación I](./readmes/NestJS-08.md)
+- [09- Autenticación II](./readmes/NestJS-09.md)
 
 ## Trivias
 
