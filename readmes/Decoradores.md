@@ -67,8 +67,6 @@ function LogDecorator(msg: string) {
 
 ## 📚 Tipos de Decoradores en TypeScript
 
-Tipo Aplica sobre Recibe como argumentos principales:
-
 1. Decorador de Clase
 2. Decorador de Propiedad
 3. Decorador de Método
