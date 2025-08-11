@@ -106,7 +106,7 @@ Este tipo de pruebas se enfoca en probar el sistema completo, emulando la intera
 Se utiliza una instancia real del servidor NestJS, para verificar que todo el flujo de la aplicación funciona correctamente.
 Se emplea supertest junto con Jest para hacer peticiones HTTP y verificar las respuestas.
 
-#### 4. Aceptación
+#### 4. Aceptación / Usuario Final (Tests Manuales / De uso)
 
 El cliente o usuarios validan si cumple con lo acordado.
 
