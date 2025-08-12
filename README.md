@@ -40,6 +40,8 @@
 - [07- NestJS File Upload](./readmes/NestJS-07.md)
 - [08- Autenticación I](./readmes/NestJS-08.md)
 - [09- Autenticación II](./readmes/NestJS-09.md)
+- [10- NestJS Testing](./readmes/NestJS-10.md)
+- [11- Open API / Documentation](./readmes/NestJS-11.md)
 
 ## Trivias
 

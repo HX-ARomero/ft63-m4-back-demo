@@ -130,3 +130,7 @@ El cliente o usuarios validan si cumple con lo acordado.
 <div style="text-align: center;">
   <img src="../readmes/assets/nestjsTesting.png" style="width: 700px;" alt="Testing en NestJS">
 </div>
+
+# Acceso Directo VSC
+
+"C:\Users\almaf\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\almaf\Desktop\ft63-m4-back-demo"
